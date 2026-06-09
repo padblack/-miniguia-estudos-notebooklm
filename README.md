@@ -45,6 +45,8 @@ Resumos:
 2º: Tabela de dados de Marcas e Projetos de Máquinas e Motores
 
 3º: Infográfico guia de mecânica e estabilidade
+<img width="2752" height="1536" alt="image" src="https://github.com/user-attachments/assets/7da05eb1-94dc-4695-b504-6728b01869db" />
+
 
 Glossário:
 1. Termodinâmica e Energia
